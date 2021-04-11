@@ -1,6 +1,6 @@
 <h2>Hi, I'm LuJun! <img src="https://github.githubassets.com/images/mona-whisper.gif" height="24" /></h2>
 <img align='right' src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="230" />
-<p><em>Front-end Engineer at Isoftstone . </em>
+<p><em>Front-end Engineer at Westlake University Deep Learning Laboratory . </em>
 
 <h4> Latest Blog Posts: </h4>
 
